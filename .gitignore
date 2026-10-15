@@ -1,0 +1,20 @@
+# Build
+target/
+bin/
+out/
+*.class
+*.jar
+
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Dados locais do aplicativo (contêm contas de usuário) — nunca versionar
+usuarios.json
+relatorios.json
+*.corrompido
