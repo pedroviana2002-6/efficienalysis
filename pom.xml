@@ -27,7 +27,6 @@
 
   <build>
     <plugins>
-      <!-- Gera um .jar executável único (com o Jackson dentro): java -jar target/efficienalysis-1.0.0.jar -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
